@@ -16,6 +16,21 @@
   background-color: var(--dark-blue);
 }
 
+.title-container {
+  background-color: var(--dark);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+.title-container h1 {
+  color: var(--light);
+  font-weight: 600;
+}
+
 .mural {
   display: flex;
   flex-direction: column;
@@ -25,11 +40,6 @@
   gap: 2rem;
 }
 
-.mural h1 {
-  color: var(--dark);
-  font-weight: 600;
-  padding: 2rem 0;
-}
 
 .cards-container {
   display: flex;

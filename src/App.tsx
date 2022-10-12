@@ -26,7 +26,7 @@ function App() {
         <img id='hacktober' src="/images/hacktober.png" alt="Logo Hacktoberfest" />
       </div>
       <div className='mural'>
-        <h1>Mural dos membros :)</h1>
+        <div className='title-container'><h1>Mural dos membros :)</h1></div>
         <div className='cards-container'>
           <div className='cards-container-left'>
             {

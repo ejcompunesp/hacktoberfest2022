@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: var(--light);
+  background-color: var(--dark-blue);
+}
+
+.mural {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: var(--light);
+  padding: 2rem 5rem;
+  gap: 2rem;
+}
+
+.mural h1 {
+  color: var(--dark);
+  font-weight: 600;
+  padding: 2rem 0;
+}
+
+.cards-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 5rem;
+}
+
+.cards-container-left,
+.cards-container-right {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  gap: 2.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 100%;
+  width: 100%;
+  flex-wrap: wrap;
+  background-image: linear-gradient(90deg, #000000 0%, #0D0B53 23.96%, #9800CD 50.52%, rgba(198, 124, 115, 0.88) 78.65%, #F5F95B 100%);
+}
+
+.logo-ej {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+  gap: 1rem;
+}
+
+#logo-ejcomp {
+  max-width: 15rem;
+}
+
+#ejcomp {
+  max-width: 20rem;
+}
+
+#hacktober {
+  max-width: 30rem;
+}
+
+@media (max-width: 635px) {
+  #hacktober {
+    max-width: 20rem;
+  }
+
+  .cards-container {
+    flex-wrap: wrap;
+  }
+}

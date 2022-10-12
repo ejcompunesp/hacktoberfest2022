@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body,
+html,
+#root,
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+:root {
+  --light: #FBFBFB;
+  --dark: #170F1E;
+  --dark-blue: #0D0B53;
+  --medium-blue: #372B85;
+  --dark-purple: #6D00B0;
+  --light-purple: #D83DFF;
+}

@@ -1,0 +1,26 @@
+.card {
+  color: var(--light);
+  width: 100%;
+  border-radius: 20px;
+  padding: 2rem 1rem 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.card div {
+  display: flex;
+  max-width: 100%;
+  gap: 1.5rem;
+  padding: 0.2rem 0;
+}
+
+#image-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+#image-container img {
+  width: 2rem;
+}

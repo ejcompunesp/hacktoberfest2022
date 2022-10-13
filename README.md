@@ -12,20 +12,74 @@ Projeto para você criar sua primeira Pull Request!
 <p align="left">
 
 ###  Contribua
-* Faça um fork do projeto 
+* Faça um Fork do repositório
+
 * Clone o projeto na sua máquina
-* Sincronize o fork com o repositório original 
-* Crie uma nova branch 
+
+```markdown
+
+git clone https://github.com/EJComp-Unesp/hacktoberfest2022.git
+
+```
+
+* Crie uma nova branch
+
+```markdown
+
+git checkout -b branch-name
+
+```
+
 * Realize as mudanças desejadas e faça o commit
 	* Você pode adicionar seu nome, diretoria, tecnologias que você mais gosta e uma descrição sobre você no arquivo src/mural.ts
 	* Não apague as informações de outros membros
 	* Sinta-se a vontade para contribuir com bugs encontrados ou melhorias em geral do site :) 
 * Suba sua branch e abra uma pull request para o projeto original 
 
+* Commit and push
+
+```markdown
+
+git add .
+
+git commit -m 'Commit message'
+
+git push origin branch-name
+
+```
+
+* Crie uma nova pull request a partir do seu repositório (Click no botão `New Pull Request` )
+
+* Espere a sua PR ser revisada e aprovada!
+
+* Divirtam-se :)
+
 * Tutoriais que podem te ajudar se você nunca contribuiu para um projeto:
 	*  [Porque e como contribuir com projetos open source - OneBitCode][onebitcode-url]
 
 <br />
+
+### Iniciando o projeto 
+* Clone o projeto seguindo as instruções acima 
+* instale as dependencias 
+
+```markdown
+
+yarn install 
+ou 
+npm install
+
+```
+
+* rode a aplicação 
+
+```markdown
+
+yarn start 
+ou 
+npm start
+
+```
 
 ### Feito com
 

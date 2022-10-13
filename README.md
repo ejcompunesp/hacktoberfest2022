@@ -12,8 +12,6 @@ Projeto para você criar sua primeira Pull Request!
 <p align="left">
 
 ###  Contribua
-* Faça um Fork do repositório
-
 * Clone o projeto na sua máquina
 
 ```markdown

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hacktoberfest2022/static/css/main.983ecc5d.css",
-    "main.js": "/hacktoberfest2022/static/js/main.51af7a77.js",
+    "main.js": "/hacktoberfest2022/static/js/main.80420172.js",
     "index.html": "/hacktoberfest2022/index.html",
     "main.983ecc5d.css.map": "/hacktoberfest2022/static/css/main.983ecc5d.css.map",
-    "main.51af7a77.js.map": "/hacktoberfest2022/static/js/main.51af7a77.js.map"
+    "main.80420172.js.map": "/hacktoberfest2022/static/js/main.80420172.js.map"
   },
   "entrypoints": [
     "static/css/main.983ecc5d.css",
-    "static/js/main.51af7a77.js"
+    "static/js/main.80420172.js"
   ]
 }

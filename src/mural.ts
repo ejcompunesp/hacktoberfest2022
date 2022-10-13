@@ -5,15 +5,7 @@ type memberType = {
   sobreMim: string;
 };
 
-type arrayMemberType = memberType[];
-
-export const members: arrayMemberType = [
-  // {
-  //   nome: "karol marques",
-  //   diretoria: "RH ❤️️❤️️",
-  //   tecnologias: "React.js, Flutter, Typescript, Java (bem de vez em quando porque né)",
-  //   sobreMim: "oi 👻"
-  // },
+export const members: memberType[] = [
   {
     nome: "karol marques",
     diretoria: "(a melhor delas) RH ❤️️❤️️",
@@ -31,7 +23,7 @@ export const members: arrayMemberType = [
   {
     nome: "Gabriel Cecon",
     diretoria: "Projetos",
-    tecnologias: "Typescript, ReactJs, ReactNative, NodeJs ",
-    sobreMim: "Xandão lover e apreciador de animais acima do peso",
+    tecnologias: "Typescript, ReactJs, ReactNative, NodeJs.",
+    sobreMim: "Xandão lover e apreciador de animais acima do peso.",
   },
 ];

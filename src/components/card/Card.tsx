@@ -53,7 +53,7 @@ export const Card: React.FC<memberType> = ({ nome, diretoria, tecnologias, sobre
         {sobreMim}
       </div>
       <div id='image-container'>
-        <img src="/images/EJBRANCO.PNG" alt="Logo EJComp" />
+        <img src="images/EJBRANCO.png" alt="Logo EJComp" />
       </div>
     </div>
   )

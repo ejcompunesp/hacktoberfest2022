@@ -20,10 +20,10 @@ function App() {
     <div className='container'>
       <div className='cover'>
         <div className='logo-ej'>
-          <img id='logo-ejcomp' src="/images/EJBRANCO.png" alt="Logo EJComp" />
-          <img id='ejcomp' src="/images/ejcomp.png" alt="Logo EJComp" />
+          <img id='logo-ejcomp' src="/images/EJBRANCO.PNG" alt="Logo EJComp" />
+          <img id='ejcomp' src="/images/ejcomp.PNG" alt="Logo EJComp" />
         </div>
-        <img id='hacktober' src="/images/hacktober.png" alt="Logo Hacktoberfest" />
+        <img id='hacktober' src="/images/hacktober.PNG" alt="Logo Hacktoberfest" />
       </div>
       <div className='mural'>
         <div className='title-container'><h1>Mural dos membros :)</h1></div>

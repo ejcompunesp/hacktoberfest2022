@@ -21,4 +21,10 @@ export const members: arrayMemberType = [
     tecnologias: "React.js, Flutter, Typescript, Java (bem de vez em quando porque né)",
     sobreMim: "oi 👻 gosto de gatos e cerveja, apenas."
   },
+  {
+    nome: "haria othon",
+    diretoria: "Adm/Jur/Fin",
+    tecnologias: "Nodejs, mongodb, Aws (tentando né :p), typescript.",
+    sobreMim: "Olá, sou diretor de Adm/Jur/Fin, estudante do 4ºAno (4!) em bacharel de Ciências da Computação."
+  },
 ];

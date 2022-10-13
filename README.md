@@ -32,6 +32,7 @@ git checkout -b branch-name
 
 * Realize as mudanças desejadas e faça o commit
 	* Você pode adicionar seu nome, diretoria, tecnologias que você mais gosta e uma descrição sobre você no arquivo src/mural.ts
+	* [Tabela de emojis para adicionar nos textos :)][emojis-url]
 	* Não apague as informações de outros membros
 	* Sinta-se a vontade para contribuir com bugs encontrados ou melhorias em geral do site :) 
 * Suba sua branch e abra uma pull request para o projeto original 
@@ -108,3 +109,5 @@ npm start
 [projeto-url]: https://ejcomp-unesp.github.io/hacktoberfest2022/
 
 [onebitcode-url]: https://onebitcode.com/projetos-open-source/
+
+[emojis-url]: https://www.cjdinfo.com.br/utilitario-tabela-codigo-emoji

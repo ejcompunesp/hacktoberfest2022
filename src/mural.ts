@@ -19,6 +19,6 @@ export const members: arrayMemberType = [
     nome: "karol marques",
     diretoria: "(a melhor delas) RH ❤️️❤️️",
     tecnologias: "React.js, Flutter, Typescript, Java (bem de vez em quando porque né)",
-    sobreMim: "oi 👻"
+    sobreMim: "oi 👻 gosto de gatos e cerveja, apenas."
   },
 ];

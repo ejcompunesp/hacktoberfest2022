@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
 
-## Available Scripts
+<div align="left">
 
-In the project directory, you can run:
+<h3 align="left">Mural dos membros :) </h3>
 
-### `npm start`
+Projeto para você criar sua primeira Pull Request! 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="left">
 
-### `npm test`
+###  Contribua
+* Faça um fork do projeto 
+* Clone o projeto na sua máquina
+* Sincronize o fork com o repositório original 
+* Crie uma nova branch 
+* Realize as mudanças desejadas e faça o commit
+	* Você pode adicionar seu nome, diretoria, tecnologias que você mais gosta e uma descrição sobre você no arquivo src/mural.ts
+	* Não apague as informações de outros membros
+	* Sinta-se a vontade para contribuir com bugs encontrados ou melhorias em geral do site :) 
+* Suba sua branch e abra uma pull request para o projeto original 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Tutoriais que podem te ajudar se você nunca contribuiu para um projeto:
+	*  [Porque e como contribuir com projetos open source - OneBitCode][onebitcode-url]
 
-### `npm run build`
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Feito com
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* [![React.js][React.js]][React.js-url]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br />
 
-### `npm run eject`
+###  Link do site :)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [Mural dos membros][projeto-url]
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<!-- MARKDOWN LINKS & IMAGES -->
 
-## Learn More
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[linkedin-url]: https://linkedin.com/in/karoldm
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[React.js]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+
+[React.js-url]: https://pt-br.reactjs.org/
+
+[projeto-url]: https://ejcomp-unesp.github.io/hacktoberfest2022/
+
+[onebitcode-url]: https://onebitcode.com/projetos-open-source/

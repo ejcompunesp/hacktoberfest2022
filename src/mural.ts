@@ -11,7 +11,7 @@ export const members: memberType[] = [
     diretoria: "(a melhor delas) RH ❤️️❤️️",
     tecnologias:
       "React.js, Flutter, Typescript, Java (bem de vez em quando porque né)",
-    sobreMim: "oi 👻 gosto de gatos e cerveja, apenas.",
+    sobreMim: "oi 👻 gosto de gatos, cerveja, dormir mais de 10h por dia e ganhar do bob na sinuca.",
   },
   {
     nome: "haria othon",

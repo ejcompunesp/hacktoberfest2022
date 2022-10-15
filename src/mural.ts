@@ -26,4 +26,10 @@ export const members: memberType[] = [
     tecnologias: "Typescript, ReactJs, ReactNative, NodeJs.",
     sobreMim: "Xandão lover e apreciador de animais acima do peso.",
   },
+  {
+  nome: "Gabriela Sinastre",
+  diretoria: "RH Forever",
+  tecnologias: "ReactNative, NodeJs.",
+  sobreMim: "Olá, sou quase ex-membro do RH, amo personagens estranhos (Sheldon) e me chama no zap para mais informações.",
+  },
 ];

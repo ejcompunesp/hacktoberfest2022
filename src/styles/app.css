@@ -96,4 +96,9 @@
   .cards-container {
     flex-wrap: wrap;
   }
+
+  .cards-container-left,
+  .cards-container-right {
+    width: 100%;
+  }
 }

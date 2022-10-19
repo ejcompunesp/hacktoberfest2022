@@ -43,5 +43,11 @@ export const members: memberType[] = [
     diretoria: "RE, a maior e melhor de todas ❤️",
     tecnologias: "ReactNative, NodeJs.",
     sobreMim: "Oii, sou ex-membro de RE! Amo jogar e a faculdade ta atrapalhando",
-    },
+   },
+   {
+    nome: "Lucas Gaspar",
+    diretoria: "Inovacao e Eventos, a mais braba",
+    tecnologias: "Python, AWS e aprendendo JS",
+    sobreMim: "Queria so me formar logo",
+   },
 ];

@@ -50,4 +50,10 @@ export const members: memberType[] = [
     tecnologias: "Python, AWS e aprendendo JS",
     sobreMim: "Queria so me formar logo",
    },
+   {
+    nome: "Lívia Gomes",
+    diretoria: "Projetos 🤯;",
+    tecnologias: "Aprendendo C, Python e JS",
+    sobreMim: "ooi, sou do 1º ano e amo séries, masterchef, música, gatinhos e cachorrinhos 🙃",
+   },
 ];

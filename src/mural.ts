@@ -33,12 +33,6 @@ export const members: memberType[] = [
     sobreMim: "Olá, sou quase ex-membro do RH, amo personagens estranhos (Sheldon) e me chama no zap para mais informações.",
   },
   {
-    nome: "Lucas Hungaro",
-    diretoria: "Não sou da EJ, porém me disseram que o RE é a melhor.",
-    tecnologias: "ReactNative, NodeJs.",
-    sobreMim: "Olá, Não sou da EJ(mas quem sabe um dia 😉), Estudante do 2ºano de Ciência da computação(só sobrou a vontade de trancar o curso).",
-  },
-  {
     nome: "Gabriela Tamashiro",
     diretoria: "RE, a maior e melhor de todas ❤️",
     tecnologias: "ReactNative, NodeJs.",
